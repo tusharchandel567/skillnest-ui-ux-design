@@ -1,0 +1,14 @@
+SkillNest – UI/UX Design (Figma)
+
+Design File:
+https://www.figma.com/make/glN5gjTEmgJHyCLeJo2TnQ/SkillNest–UI-UX-Design
+
+Screens Designed:
+- Landing Page
+- Login / Register
+- Course Listing
+- Course Detail Page
+- Admin Dashboard
+
+Tool Used:
+Figma (Figma Make – AI assisted)
